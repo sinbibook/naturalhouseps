@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-04-10T05:14:05.805Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-04-10T05:16:23.175Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
     "homepageId": "d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a"
@@ -1363,7 +1363,7 @@
                 "description": "\"\n고성 네츄럴하우스는 바다와 산을\n반려견과 함께 즐길 수 있는 힐링 공간입니다.\n\n오션뷰·마운틴뷰 객실과 바비큐장, 카페 등 \n다양한 시설을 제공합니다.\n\n주변에 공현진해수욕장,송지호, 화진포 등 \n주요 관광지 가까워 여행에 최적입니다."
               },
               "gallery": {
-                "title": "",
+                "title": "Preview",
                 "images": [
                   {
                     "id": "6260f76b-7ad2-4fa7-aa58-2266bb8f4131",
@@ -1400,7 +1400,8 @@
                     "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": "고성 네츄럴하우스의 매력을 미리 느껴보세요."
               },
               "signature": {
                 "title": "",
