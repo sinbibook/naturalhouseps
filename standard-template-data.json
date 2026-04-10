@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-04-10T03:40:25.726Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-04-10T05:14:05.805Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
     "homepageId": "d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a"
@@ -1435,10 +1435,65 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": " ",
+                "images": [
+                  {
+                    "id": "3cf57ae6-178e-4e1f-b7fc-2fa617b3f8ca",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a/main_hero/1775792526037-1a3riijfvvx.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "고성 네츄럴하우스는 아름다운 경치와 \n맑은 공기를 반려견과 함께 즐길 수 있는 힐링 공간입니다.\n\n바다와 산을 동시에 조망할 수 있으며, \n오션뷰와 마운틴뷰 객실을 선택할 수 있습니다.\n객실 앞 테라스와 공용 바비큐장, 카페테리아 등 \n다양한 시설로 편안한 시간을 제공합니다.\n공현진해수욕장, 송지호, 화진포 등 주요 관광지와 \n가까워 여행에 최적입니다.\n\n자연 속에서 특별한 추억을 만들 수 있는 공간으로 \n여러분을 초대합니다."
               },
-              "about": []
+              "about": [
+                {
+                  "title": "오션뷰 / 마운틴뷰 객실",
+                  "images": [
+                    {
+                      "id": "669844a8-f9bf-40fc-92a9-3c22282e0b63",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a/main_about/1775793376187-b9nsm9xn5jm.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "20822882-98d6-40b2-be7a-65b62bb3664a"
+                    }
+                  ],
+                  "blockId": "20822882-98d6-40b2-be7a-65b62bb3664a",
+                  "description": "산과 바다가 어우러진 곳에 자리한\n자연과 함께 숨 쉬는 힐링 숙소\n취향에 맞게 객실을 선택해 보세요.🌊 ⛰️"
+                },
+                {
+                  "title": "반려견 동반 객실",
+                  "images": [
+                    {
+                      "id": "eda6d531-a93c-4f54-a903-54d1523b0eca",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a/main_about/1775793797623-a9i9n75ps0e.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "c8044893-dd5e-4ce1-8c56-8e557e18e75a"
+                    }
+                  ],
+                  "blockId": "c8044893-dd5e-4ce1-8c56-8e557e18e75a",
+                  "description": "반려견 동반이 가능한 객실에서\n소중한 반려견과 함께하는 특별한 하루\n고성에서 잊지 못할 추억을 만들어보세요🐶 🐾"
+                },
+                {
+                  "title": "바다와 1분거리",
+                  "images": [
+                    {
+                      "id": "604b99a1-662f-4e29-aed0-07d99add11d8",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a/main_about/1775797807562-bx7sexnhfgp.jpg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "2222ae64-dd9f-4be3-be73-a0594e4aeb68"
+                    }
+                  ],
+                  "blockId": "2222ae64-dd9f-4be3-be73-a0594e4aeb68",
+                  "description": "펜션 앞에 펼쳐진 동해바다\n객실에서 즐기는 탁 트인 오션뷰\n여유로운 바다의 순간🌊  💙"
+                }
+              ]
             }
           ]
         },
