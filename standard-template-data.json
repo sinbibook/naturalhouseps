@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-04-10T05:19:19.439Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-04-10T06:19:12.525Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
     "homepageId": "d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a"
@@ -9,8 +9,8 @@
   "property": {
     "id": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
     "name": "고성 네츄럴하우스",
-    "description": "",
-    "subtitle": "",
+    "description": "공현진해변 1분",
+    "subtitle": "고성 네츄럴하우스",
     "address": "강원특별자치도 고성군 죽왕면 공현진길 6",
     "latitude": 38.3523802218048,
     "longitude": 128.509717449839,
@@ -1229,9 +1229,9 @@
       }
     ],
     "seo": {
-      "title": "",
-      "description": "",
-      "keywords": ""
+      "title": "고성 네츄럴하우스",
+      "description": "바다와 산이 어우러진 자연과 함께 숨쉬는 네츄럴하우스입니다.",
+      "keywords": "고성여행,고성숙소,고성펜션,동해숙소,오션뷰숙소,오션뷰펜션,네츄럴하우스"
     },
     "socialLinks": {},
     "customFields": {
