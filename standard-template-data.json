@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-04-10T01:59:50.985Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-04-10T03:40:25.726Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
     "homepageId": "d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a"
@@ -73,7 +73,71 @@
         "description": "야외 공용 바베큐장에서 바베큐 파티를 즐겨보세요. ",
         "usageGuide": "[야외 공용 바베큐장]\n- 야외 테이블 숯+그릴 : 2인 기준 30,000원\n- 몽골텐트 전기그릴 : 20,000원 (한 테이블 2시간 이용)\n- 이용 시간: ~22:00\n※ 현장 결제\n※ 기상 상황이나 현장 사정에 따라 이용이 제한될 수 있습니다.\n※ 다음 손님을 위해 분리수거는 꼭 해주세요.\n※ 사용 후 전열기는 뽑아주셔야 합니다.",
         "displayOrder": 0,
-        "images": []
+        "images": [
+          {
+            "id": "b8eb1a0e-a0a9-4579-a98b-744a64a67580",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/30f2608a-45aa-4cd2-be5a-31543a5b3008/main/1775787074647-tkqhkc1xci.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "3d3adc83-2d3c-4cef-ae93-b0caa5066cea",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/30f2608a-45aa-4cd2-be5a-31543a5b3008/main/1775787074647-marg89lxlsb.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "a65254b9-c120-4478-bebf-f89b0d53b100",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/30f2608a-45aa-4cd2-be5a-31543a5b3008/main/1775787074647-adgubj5kzk7.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "f89dc941-7906-402d-baef-bd62899fafd4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/30f2608a-45aa-4cd2-be5a-31543a5b3008/main/1775787597469-1n4cco0iq9d.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "3dc6fd63-834d-4530-90d3-795c67ac0c32",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/30f2608a-45aa-4cd2-be5a-31543a5b3008/main/1775787597469-tqdwr7r2gbn.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "58da45be-006f-4ced-9e2a-9570f33207ee",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/30f2608a-45aa-4cd2-be5a-31543a5b3008/main/1775787074647-a2i70enxou5.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "c66d6c65-9585-44ab-9cf6-6799e185a1d8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/30f2608a-45aa-4cd2-be5a-31543a5b3008/main/1775787074647-uerudl67jk.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "76ce221a-7e60-4b3f-945a-12e98304e798",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/30f2608a-45aa-4cd2-be5a-31543a5b3008/main/1775787597469-fd3ltayw74b.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "16adbcea-36dd-4354-98b5-92fa083e45b6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/30f2608a-45aa-4cd2-be5a-31543a5b3008/main/1775787597470-xayezleje7.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "b943ba82-99a5-41ff-9332-ea01328ee9b5",
@@ -81,7 +145,43 @@
         "description": "고성 네츄럴하우스 펜션은 애견동반이 가능합니다. (사전 문의 필수)",
         "usageGuide": "※ 반려견 동반을 원하실 경우, 예약 전 사전 문의가 반드시 필요합니다.\n- 동반 가능 객실 : 2층과 3층 객실에 한함\n- 추가비용 : 소형견(7kg 미만) 10,000원, 중대형견 20,000원 (1박기준/현장결제)\n※ 반려견을 객실에 혼자 두고 외출하는 것은 절대 불가하며, 다른 고객님의 편안한 투숙을 위해 협조 부탁드립니다.",
         "displayOrder": 1,
-        "images": []
+        "images": [
+          {
+            "id": "73ffb0d4-8e12-4c07-8229-836a267ba87f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b943ba82-99a5-41ff-9332-ea01328ee9b5/main/1775787075798-uo7oryae86p.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "7682b5ee-c8d3-4fe4-a843-1b62e75d71d8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b943ba82-99a5-41ff-9332-ea01328ee9b5/main/1775787075798-g922ez2i4u.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "629d7b60-5ee3-4e36-ab61-bceb3e9825ad",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b943ba82-99a5-41ff-9332-ea01328ee9b5/main/1775787075798-6ionwhbf4ts.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "f7e6856b-9bca-4786-af39-4c4ad721dfab",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b943ba82-99a5-41ff-9332-ea01328ee9b5/main/1775787075798-hjhtvw5tnt9.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "1ae89203-7a2d-4379-8025-4d0aeca5f564",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b943ba82-99a5-41ff-9332-ea01328ee9b5/main/1775787075798-330smgzn5t5.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "39212d14-08bb-444e-b51a-1ba053c3f399",
@@ -89,7 +189,43 @@
         "description": "펜션 앞 공현진 해변이 있습니다. ",
         "usageGuide": "[해수욕장 인근]\n- 공현진해수욕장 펜션에서 도보 1분\n\n[오션뷰]\n- 객실에서 바다를 감상할 수 있습니다.",
         "displayOrder": 2,
-        "images": []
+        "images": [
+          {
+            "id": "fa2b7eb6-0c85-4b30-968f-e4c01205e5a9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/39212d14-08bb-444e-b51a-1ba053c3f399/main/1775787076570-ee4wgypbb4.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "3dc771fb-d752-4b51-848a-60495aa69d0e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/39212d14-08bb-444e-b51a-1ba053c3f399/main/1775787076570-mjw3fptt03q.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "fab116ac-86b0-40c0-9687-6c78674f0ef5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/39212d14-08bb-444e-b51a-1ba053c3f399/main/1775787076570-q5r97b26llo.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "9d4a74b4-b62c-4930-ab59-56266e630779",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/39212d14-08bb-444e-b51a-1ba053c3f399/main/1775787076570-99m8g4azp7h.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "34fc59c7-4bce-4ff1-8a5c-da3b9bc1e751",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/39212d14-08bb-444e-b51a-1ba053c3f399/main/1775787076570-thgre55r2jg.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "6cdf23fd-0439-4d1b-88e3-e74c238234e2",
@@ -97,7 +233,64 @@
         "description": "펜션 1층 아라커피에서 브런치 세트 및 브런치 메뉴를 판매합니다. ",
         "usageGuide": "[매점&카페]\n- 카페 : 펜션 건물 1층 아라커피 (평일 09:00~19:00, 주말 08:00~19:00)\n- 조식 : 브런치 세트(9,500원) 및 브런치 메뉴 판매",
         "displayOrder": 3,
-        "images": []
+        "images": [
+          {
+            "id": "58fe0a83-e401-4583-97b5-a5e7a580507e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6cdf23fd-0439-4d1b-88e3-e74c238234e2/main/1775787114113-8byin8in1ob.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "2a770f18-a5d8-4973-8261-c0f41a5bf95d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6cdf23fd-0439-4d1b-88e3-e74c238234e2/main/1775787114112-29rt2mrzxlj.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "135fd546-1596-4153-997c-53e9cf45146f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6cdf23fd-0439-4d1b-88e3-e74c238234e2/main/1775787114112-473bk4073d6.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "3e4599f5-13aa-4f1e-a2da-05daae8e7da9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6cdf23fd-0439-4d1b-88e3-e74c238234e2/main/1775787114113-b1uhahi782.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "2d054c65-b471-423b-85c6-eb12f42f82f2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6cdf23fd-0439-4d1b-88e3-e74c238234e2/main/1775787114112-sa419vbyyt.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "c8da2963-566b-46e3-8b6e-7928a952ab4d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6cdf23fd-0439-4d1b-88e3-e74c238234e2/main/1775787114113-azb1h7478ht.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "a48f6f80-ee91-4237-a1be-38843fbc7e95",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6cdf23fd-0439-4d1b-88e3-e74c238234e2/main/1775787114112-k0w5jwowxx.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "e2a99ded-9fc0-4369-b994-da5547c52385",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6cdf23fd-0439-4d1b-88e3-e74c238234e2/main/1775787114112-m5p0ekmktaj.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "66a7e01a-a3b8-4322-a1b9-314e2a61726f",
@@ -105,7 +298,15 @@
         "description": "공용 어메니티 제공",
         "usageGuide": "- 어메니티 무료 제공",
         "displayOrder": 4,
-        "images": []
+        "images": [
+          {
+            "id": "770f7b8c-abbb-45ad-af8e-6699c3a1fcb3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/66a7e01a-a3b8-4322-a1b9-314e2a61726f/main/1775787135478-orst3jyf7ff.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -1040,7 +1241,85 @@
             {
               "hero": {
                 "title": "고성 네츄럴 하우스",
-                "images": [],
+                "images": [
+                  {
+                    "id": "4a138d49-34c3-4e47-9185-caa6e1448480",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a/index_hero/1775792078430-v87iobtaxbr.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "9790d55e-d51e-4ad6-9662-9f7b01d93c19",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a/index_hero/1775792078430-5dax7d1h428.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "3f2dcecd-b9ed-4bfd-ad7d-6999b3cd93ff",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a/index_hero/1775792078430-ltfxs4n9qnn.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "43323494-11a0-4c5f-a4e0-f4633c021603",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a/index_hero/1775792078430-7xhdsw8vhl.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "ef3f49cb-4475-418c-bd3a-0cdd7bdfc6f0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a/index_hero/1775792078430-kganpchweai.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "18a211bb-0449-47f6-97c5-17d603887415",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a/index_hero/1775792078430-yiitawgwtq.jpg",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "1705d081-a8f4-48cd-bca1-9e9ffdc3aefa",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a/index_hero/1775792078430-b0yxp27eis8.jpg",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "48bcb43f-6081-4148-8132-a98f92cb8fcc",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a/index_hero/1775792078430-3cu8dbic63d.jpg",
+                    "sortOrder": 7,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "8863e633-e643-465d-a1a0-3b75c58b74b3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a/index_hero/1775792078430-alxn3kiclf.jpg",
+                    "sortOrder": 8,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "3b7f766e-4ae9-4841-8df4-727227496004",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a/index_hero/1775792078430-0y1wg2grehua.jpg",
+                    "sortOrder": 9,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "82f82219-f1f5-4897-816a-d96870a750f3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a/index_hero/1775792078431-eju451jl45.jpg",
+                    "sortOrder": 10,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
                 "description": "바다와 산이 어우러진 자연과 함께 숨쉬는 네츄럴하우스"
               },
               "closing": {
@@ -1057,8 +1336,31 @@
                 "description": " "
               },
               "essence": {
-                "title": "",
-                "images": []
+                "title": "자연과 함께 숨쉬는 네츄럴하우스",
+                "images": [
+                  {
+                    "id": "9eb25e6a-c738-43bf-b13b-6cdc92f2c3d1",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a/index_essence/1775792418610-3xbpi6wkat.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "5c282e6d-2822-4724-af49-998a2f2769e5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a/index_essence/1775792418610-dop9uf4kxp8.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "fc723597-b442-4788-8ed4-b7fc924125bf",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a/index_essence/1775792418610-kb5hxhhhjys.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "\"\n고성 네츄럴하우스는 바다와 산을\n반려견과 함께 즐길 수 있는 힐링 공간입니다.\n\n오션뷰·마운틴뷰 객실과 바비큐장, 카페 등 \n다양한 시설을 제공합니다.\n\n주변에 공현진해수욕장,송지호, 화진포 등 \n주요 관광지 가까워 여행에 최적입니다."
               },
               "gallery": {
                 "title": "",
