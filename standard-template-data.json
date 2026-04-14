@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2026-04-10T06:19:12.525Z",
+    "version": "1.11.0",
+    "generatedAt": "2026-04-14T01:08:59.471Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
     "homepageId": "d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a"
@@ -14,7 +14,7 @@
     "address": "강원특별자치도 고성군 죽왕면 공현진길 6",
     "latitude": 38.3523802218048,
     "longitude": 128.509717449839,
-    "contactPhone": "",
+    "contactPhone": "010-4952-2272",
     "contactEmail": "",
     "checkin": "15:00",
     "checkout": "11:00",
@@ -372,18 +372,35 @@
   "rooms": [
     {
       "id": "8a571413-4779-4365-a199-a670ca0017a6",
+      "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
+      "propertyName": "고성 네츄럴하우스",
       "name": "201호(마운틴뷰,애견동반O)",
+      "nameEn": "201 (Mountain View, Pet-Friendly)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 : 1인당 10,000원 (연령무관) (1박기준/현장결제)\n※ 영유아 기준인원 포함 및 추가요금 발생 / 최대인원 초과 불가",
       "group": null,
       "size": 39.67,
+      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -411,6 +428,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "6e4dfea1-c070-45ae-8739-284549e9bd6c",
       "images": [
         {
           "thumbnail": [],
@@ -418,22 +436,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 1
+      "displayOrder": 1,
+      "createdAt": "2026-03-26T05:00:04.052Z",
+      "updatedAt": "2026-03-26T05:01:55.508Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "462b2217-39df-42dc-bc2d-d1e128d3bd52",
+      "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
+      "propertyName": "고성 네츄럴하우스",
       "name": "202호(오션뷰,애견동반O)",
+      "nameEn": "202 (Ocean View, Pet-Friendly)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 : 1인당 10,000원 (연령무관) (1박기준/현장결제)\n※ 영유아 기준인원 포함 및 추가요금 발생 / 최대인원 초과 불가",
       "group": null,
       "size": 39.67,
+      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -460,6 +499,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "6e4dfea1-c070-45ae-8739-284549e9bd6c",
       "images": [
         {
           "thumbnail": [],
@@ -467,22 +507,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 2
+      "displayOrder": 2,
+      "createdAt": "2026-03-26T05:00:04.272Z",
+      "updatedAt": "2026-03-26T05:01:55.584Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "a178148d-45aa-4d1d-beb9-2c37ee644b02",
+      "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
+      "propertyName": "고성 네츄럴하우스",
       "name": "203호(오션뷰,애견동반O)",
+      "nameEn": "203 (Ocean View, Pet-Friendly)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 : 1인당 10,000원 (연령무관) (1박기준/현장결제)\n※ 영유아 기준인원 포함 및 추가요금 발생 / 최대인원 초과 불가",
       "group": null,
       "size": 39.67,
+      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -509,6 +570,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "6e4dfea1-c070-45ae-8739-284549e9bd6c",
       "images": [
         {
           "thumbnail": [],
@@ -516,22 +578,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 3
+      "displayOrder": 3,
+      "createdAt": "2026-03-26T05:00:04.223Z",
+      "updatedAt": "2026-03-26T05:01:55.577Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "020ec751-89ba-4abb-97eb-b567e504447d",
+      "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
+      "propertyName": "고성 네츄럴하우스",
       "name": "205호(오션뷰,애견동반O)",
+      "nameEn": "205 (Ocean View, Pet-Friendly)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 : 1인당 10,000원 (연령무관) (1박기준/현장결제)\n※ 영유아 기준인원 포함 및 추가요금 발생 / 최대인원 초과 불가",
       "group": null,
       "size": 39.67,
+      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -558,6 +641,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "6e4dfea1-c070-45ae-8739-284549e9bd6c",
       "images": [
         {
           "thumbnail": [],
@@ -565,22 +649,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 4
+      "displayOrder": 4,
+      "createdAt": "2026-03-26T05:00:04.220Z",
+      "updatedAt": "2026-03-26T05:01:55.594Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "5944cc99-49e8-4f4d-af2e-5b5a3783198e",
+      "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
+      "propertyName": "고성 네츄럴하우스",
       "name": "206호(마운틴뷰,애견동반O)",
+      "nameEn": "206 (Mountain View, Pet-Friendly)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 : 1인당 10,000원 (연령무관) (1박기준/현장결제)\n※ 영유아 기준인원 포함 및 추가요금 발생 / 최대인원 초과 불가",
       "group": null,
       "size": 39.67,
+      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -607,6 +712,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "6e4dfea1-c070-45ae-8739-284549e9bd6c",
       "images": [
         {
           "thumbnail": [],
@@ -614,22 +720,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 5
+      "displayOrder": 5,
+      "createdAt": "2026-03-26T05:00:04.361Z",
+      "updatedAt": "2026-03-26T05:01:55.602Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "d0b4667d-d54a-4f17-a57c-a8cba81224fa",
+      "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
+      "propertyName": "고성 네츄럴하우스",
       "name": "207호(마운틴뷰,애견동반O)",
+      "nameEn": "207 (Mountain View, Pet-Friendly)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 : 1인당 10,000원 (연령무관) (1박기준/현장결제)\n※ 영유아 기준인원 포함 및 추가요금 발생 / 최대인원 초과 불가",
       "group": null,
       "size": 39.67,
+      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -656,6 +783,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "6e4dfea1-c070-45ae-8739-284549e9bd6c",
       "images": [
         {
           "thumbnail": [],
@@ -663,22 +791,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 6
+      "displayOrder": 6,
+      "createdAt": "2026-03-26T05:00:04.248Z",
+      "updatedAt": "2026-03-26T05:07:23.075Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "25417075-7c20-422b-b058-0dc5add31251",
+      "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
+      "propertyName": "고성 네츄럴하우스",
       "name": "301호(마운틴뷰,애견동반O)",
+      "nameEn": "301 (Mountain View, Pet-Friendly)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 : 1인당 10,000원 (연령무관) (1박기준/현장결제)\n※ 영유아 기준인원 포함 및 추가요금 발생 / 최대인원 초과 불가",
       "group": null,
       "size": 39.67,
+      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -705,6 +854,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "6e4dfea1-c070-45ae-8739-284549e9bd6c",
       "images": [
         {
           "thumbnail": [],
@@ -712,22 +862,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 7
+      "displayOrder": 7,
+      "createdAt": "2026-03-26T05:00:04.269Z",
+      "updatedAt": "2026-03-26T05:07:23.334Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "fa9efa49-7573-410b-9b1d-aec1ff57e289",
+      "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
+      "propertyName": "고성 네츄럴하우스",
       "name": "302호(오션뷰,취사X,애견동반O)",
+      "nameEn": "302 (Ocean View, No Kitchen, Pets OK)",
       "description": "원룸형, 침대룸(퀸침대1)+화장실1",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 : 1인당 10,000원 (연령무관) (1박기준/현장결제)\n※ 영유아 기준인원 포함 및 추가요금 발생 / 최대인원 초과 불가",
       "group": null,
       "size": 39.67,
+      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -750,6 +921,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "6e4dfea1-c070-45ae-8739-284549e9bd6c",
       "images": [
         {
           "thumbnail": [],
@@ -757,22 +929,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 8
+      "displayOrder": 8,
+      "createdAt": "2026-03-26T05:00:04.369Z",
+      "updatedAt": "2026-03-26T05:07:23.337Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "d932cfb1-2a6c-4f8a-ab5e-b43b0e8a859b",
+      "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
+      "propertyName": "고성 네츄럴하우스",
       "name": "303호(오션뷰,취사X,애견동반O)",
+      "nameEn": "303 (Ocean View, No Kitchen, Pets OK)",
       "description": "원룸형, 침대룸(퀸침대1)+화장실1",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 : 1인당 10,000원 (연령무관) (1박기준/현장결제)\n※ 영유아 기준인원 포함 및 추가요금 발생 / 최대인원 초과 불가",
       "group": null,
       "size": 39.67,
+      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -795,6 +988,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "6e4dfea1-c070-45ae-8739-284549e9bd6c",
       "images": [
         {
           "thumbnail": [],
@@ -802,22 +996,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 9
+      "displayOrder": 9,
+      "createdAt": "2026-03-26T05:00:04.395Z",
+      "updatedAt": "2026-03-26T05:07:23.315Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "459dc625-4894-4f38-ac3c-c3f82d2ce602",
+      "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
+      "propertyName": "고성 네츄럴하우스",
       "name": "305호(오션뷰,취사X,애견동반O)",
+      "nameEn": "305 (Ocean View, No Kitchen, Pets OK)",
       "description": "원룸형, 침대룸(퀸침대1)+화장실1",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 : 1인당 10,000원 (연령무관) (1박기준/현장결제)\n※ 영유아 기준인원 포함 및 추가요금 발생 / 최대인원 초과 불가",
       "group": null,
       "size": 39.67,
+      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -840,6 +1055,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "6e4dfea1-c070-45ae-8739-284549e9bd6c",
       "images": [
         {
           "thumbnail": [],
@@ -847,22 +1063,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 10
+      "displayOrder": 10,
+      "createdAt": "2026-03-26T05:00:04.414Z",
+      "updatedAt": "2026-03-26T05:07:23.339Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "c76b7d44-f9b9-461c-85d2-e40484860832",
+      "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
+      "propertyName": "고성 네츄럴하우스",
       "name": "306호(마운틴뷰,취사X,애견동반O)",
+      "nameEn": "306(Mountain View,No Kitchen,Pets OK)",
       "description": "원룸형, 침대룸(더블침대2)+화장실1",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 : 1인당 10,000원 (연령무관) (1박기준/현장결제)\n※ 영유아 기준인원 포함 및 추가요금 발생 / 최대인원 초과 불가",
       "group": null,
       "size": 39.67,
+      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -885,6 +1122,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "6e4dfea1-c070-45ae-8739-284549e9bd6c",
       "images": [
         {
           "thumbnail": [],
@@ -892,22 +1130,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 11
+      "displayOrder": 11,
+      "createdAt": "2026-03-26T05:00:04.388Z",
+      "updatedAt": "2026-03-26T05:07:23.101Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "6df03d42-eb53-4efd-a4f4-6dc2f0763aac",
+      "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
+      "propertyName": "고성 네츄럴하우스",
       "name": "307호(마운틴뷰,취사X,애견동반O)",
+      "nameEn": "307(Mountain View,No Kitchen,Pets OK)",
       "description": "원룸형, 침대룸(더블침대2)+화장실1",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 : 1인당 10,000원 (연령무관) (1박기준/현장결제)\n※ 영유아 기준인원 포함 및 추가요금 발생 / 최대인원 초과 불가",
       "group": null,
       "size": 39.67,
+      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -930,6 +1189,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "6e4dfea1-c070-45ae-8739-284549e9bd6c",
       "images": [
         {
           "thumbnail": [],
@@ -937,22 +1197,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 12
+      "displayOrder": 12,
+      "createdAt": "2026-03-26T05:00:04.350Z",
+      "updatedAt": "2026-03-26T05:07:23.411Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "fd74f879-b6da-4b6c-92d3-8c2f6888aed0",
+      "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
+      "propertyName": "고성 네츄럴하우스",
       "name": "501호(마운틴뷰,애견동반X)",
+      "nameEn": "501 (Mountain View, Pet-Friendly)",
       "description": "원룸형, 침대룸(더블침대2)+주방1+화장실1",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 : 1인당 10,000원 (연령무관) (1박기준/현장결제)\n※ 영유아 기준인원 포함 및 추가요금 발생 / 최대인원 초과 불가",
       "group": null,
       "size": 39.67,
+      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -978,6 +1259,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "6e4dfea1-c070-45ae-8739-284549e9bd6c",
       "images": [
         {
           "thumbnail": [],
@@ -985,22 +1267,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 13
+      "displayOrder": 13,
+      "createdAt": "2026-03-26T05:00:04.338Z",
+      "updatedAt": "2026-03-26T05:07:23.336Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "87dfcdfb-01d6-4016-aad8-5c019fb5258b",
+      "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
+      "propertyName": "고성 네츄럴하우스",
       "name": "502호(오션뷰,애견동반X)",
+      "nameEn": "502 (Ocean View)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1\n",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 : 1인당 10,000원 (연령무관) (1박기준/현장결제)\n※ 영유아 기준인원 포함 및 추가요금 발생 / 최대인원 초과 불가",
       "group": null,
       "size": 39.67,
+      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1026,6 +1329,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "6e4dfea1-c070-45ae-8739-284549e9bd6c",
       "images": [
         {
           "thumbnail": [],
@@ -1033,22 +1337,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 14
+      "displayOrder": 14,
+      "createdAt": "2026-03-26T05:00:04.318Z",
+      "updatedAt": "2026-03-26T05:07:23.388Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "a1515125-8346-41e6-adb9-a6767880777b",
+      "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
+      "propertyName": "고성 네츄럴하우스",
       "name": "503호(오션뷰,취사X,애견동반X)",
+      "nameEn": "503 (Ocean View, No Kitchen)",
       "description": "원룸형, 침대룸(퀸침대1)+화장실1",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 : 1인당 10,000원 (연령무관) (1박기준/현장결제)\n※ 영유아 기준인원 포함 및 추가요금 발생 / 최대인원 초과 불가",
       "group": null,
       "size": 39.67,
+      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1071,6 +1396,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "6e4dfea1-c070-45ae-8739-284549e9bd6c",
       "images": [
         {
           "thumbnail": [],
@@ -1078,22 +1404,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 15
+      "displayOrder": 15,
+      "createdAt": "2026-03-26T05:00:04.166Z",
+      "updatedAt": "2026-03-26T05:07:23.063Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "5b7a913a-1b8d-477b-8fb3-ff83607094c6",
+      "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
+      "propertyName": "고성 네츄럴하우스",
       "name": "505호(오션뷰,취사X,애견동반X)",
+      "nameEn": "505 (Ocean View, No Kitchen)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 : 1인당 10,000원 (연령무관) (1박기준/현장결제)\n※ 영유아 기준인원 포함 및 추가요금 발생 / 최대인원 초과 불가",
       "group": null,
       "size": 39.67,
+      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1116,6 +1463,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "6e4dfea1-c070-45ae-8739-284549e9bd6c",
       "images": [
         {
           "thumbnail": [],
@@ -1123,22 +1471,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 16
+      "displayOrder": 16,
+      "createdAt": "2026-03-26T05:00:04.406Z",
+      "updatedAt": "2026-03-26T05:07:23.206Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "aebbbb5c-b936-4177-8f39-37cb78208cfd",
+      "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
+      "propertyName": "고성 네츄럴하우스",
       "name": "506호(마운틴뷰,취사X,애견동반X)",
+      "nameEn": "506 (Mountain View, No Kitchen)",
       "description": "원룸형, 침대룸(퀸침대1)+화장실1",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 : 1인당 10,000원 (연령무관) (1박기준/현장결제)\n※ 영유아 기준인원 포함 및 추가요금 발생 / 최대인원 초과 불가",
       "group": null,
       "size": 39.67,
+      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1161,6 +1530,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "6e4dfea1-c070-45ae-8739-284549e9bd6c",
       "images": [
         {
           "thumbnail": [],
@@ -1168,22 +1538,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 17
+      "displayOrder": 17,
+      "createdAt": "2026-03-26T05:00:04.118Z",
+      "updatedAt": "2026-03-26T05:07:23.236Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "36d4fbc4-76c8-4d51-a5c4-c7c23ae8ec6c",
+      "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
+      "propertyName": "고성 네츄럴하우스",
       "name": "507호(마운틴뷰,애견동반X)",
+      "nameEn": "507 (Mountain View, Pet-Friendly)",
       "description": "원룸형, 침대룸(퀸침대1)+주방1+화장실1",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 : 1인당 10,000원 (연령무관) (1박기준/현장결제)\n※ 영유아 기준인원 포함 및 추가요금 발생 / 최대인원 초과 불가",
       "group": null,
       "size": 39.67,
+      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1210,6 +1601,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "6e4dfea1-c070-45ae-8739-284549e9bd6c",
       "images": [
         {
           "thumbnail": [],
@@ -1217,7 +1609,11 @@
           "exterior": []
         }
       ],
-      "displayOrder": 18
+      "displayOrder": 18,
+      "createdAt": "2026-03-26T05:00:04.207Z",
+      "updatedAt": "2026-03-26T05:07:23.270Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     }
   ],
   "homepage": {
@@ -1320,7 +1716,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "바다와 산이 어우러진 자연과 함께 숨쉬는 네츄럴하우스"
+                "description": "바다와 산이 어우러진 자연과 함께 숨쉬는 네츄럴하우스",
+                "mediaType": "image",
+                "videos": []
               },
               "closing": {
                 "title": " Natural House",
@@ -1333,7 +1731,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": " "
+                "description": " ",
+                "mediaType": "image",
+                "videos": []
               },
               "essence": {
                 "title": "자연과 함께 숨쉬는 네츄럴하우스",
@@ -1360,7 +1760,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "\"\n고성 네츄럴하우스는 바다와 산을\n반려견과 함께 즐길 수 있는 힐링 공간입니다.\n\n오션뷰·마운틴뷰 객실과 바비큐장, 카페 등 \n다양한 시설을 제공합니다.\n\n주변에 공현진해수욕장,송지호, 화진포 등 \n주요 관광지 가까워 여행에 최적입니다."
+                "description": "\"\n고성 네츄럴하우스는 바다와 산을\n반려견과 함께 즐길 수 있는 힐링 공간입니다.\n\n오션뷰·마운틴뷰 객실과 바비큐장, 카페 등 \n다양한 시설을 제공합니다.\n\n주변에 공현진해수욕장,송지호, 화진포 등 \n주요 관광지 가까워 여행에 최적입니다.",
+                "mediaType": "image",
+                "videos": []
               },
               "gallery": {
                 "title": "Preview",
@@ -1401,11 +1803,15 @@
                     "isSelected": true
                   }
                 ],
-                "description": "고성 네츄럴하우스의 매력을 미리 느껴보세요."
+                "description": "고성 네츄럴하우스의 매력을 미리 느껴보세요.",
+                "mediaType": "image",
+                "videos": []
               },
               "signature": {
                 "title": "",
-                "images": []
+                "images": [],
+                "mediaType": "image",
+                "videos": []
               }
             }
           ]
