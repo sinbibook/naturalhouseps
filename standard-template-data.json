@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-04-14T01:08:59.471Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-04-16T03:36:33.679Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
     "homepageId": "d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a"
@@ -358,8 +358,94 @@
     },
     "images": [
       {
-        "thumbnail": [],
-        "exterior": [],
+        "thumbnail": [
+          {
+            "id": "3a2ba7be-5d16-411a-be18-284dc92ce8c1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/2861729b-4bbb-4f91-8e31-d13fa88ba78b/thumbnail/1776146697988-m3mapptskbm.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ],
+        "exterior": [
+          {
+            "id": "91bfbacd-5ff1-4abf-bb5e-3649cae3a0fa",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/2861729b-4bbb-4f91-8e31-d13fa88ba78b/exterior/1776146697989-hipgv5ur7c.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "ed0277dc-0311-4398-aad8-734488475100",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/2861729b-4bbb-4f91-8e31-d13fa88ba78b/exterior/1776146697989-lgefekh4s6q.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "b20f062e-439a-437c-b403-dc6a44a2349e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/2861729b-4bbb-4f91-8e31-d13fa88ba78b/exterior/1776146697989-71sk22eiig.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "24a4a1fd-225c-48dc-b95e-097592ba3b15",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/2861729b-4bbb-4f91-8e31-d13fa88ba78b/exterior/1776146697989-g17zv7zfyqf.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "4a55ae1f-8972-480e-aff0-6e2edce36996",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/2861729b-4bbb-4f91-8e31-d13fa88ba78b/exterior/1776146697989-tmalfpb3zy.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "afe2884c-f8e2-4294-a09e-7061e8351dd8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/2861729b-4bbb-4f91-8e31-d13fa88ba78b/exterior/1776146697988-aol92e3zytg.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "b398c1da-8a5e-48c6-ba80-7f2ba4d569aa",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/2861729b-4bbb-4f91-8e31-d13fa88ba78b/exterior/1776146697989-e717cpt5qdk.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "cc7ca31b-16a5-4371-8bc8-5bd9d62ecbbb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/2861729b-4bbb-4f91-8e31-d13fa88ba78b/exterior/1776146697989-olpggggdz3j.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "f55fba79-e9a9-4987-aa31-a2cf803082f9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/2861729b-4bbb-4f91-8e31-d13fa88ba78b/exterior/1776146697989-fsn0p19xmct.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "28c103f5-e86f-4170-8ac1-4bf5893467bb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/2861729b-4bbb-4f91-8e31-d13fa88ba78b/exterior/1776146697989-swyrj0sfdxg.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "4deadb36-f65b-450d-b230-d8564e1ea461",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/2861729b-4bbb-4f91-8e31-d13fa88ba78b/exterior/1776146697989-j2aplrm1mk.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          }
+        ],
         "surrounding": [],
         "commonArea": []
       }
@@ -367,7 +453,7 @@
     "nameEn": "Goseong Natural House Pension",
     "domain": "naturalhouseps.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11477",
-    "ybsId": ""
+    "ybsId": "79937"
   },
   "rooms": [
     {
@@ -1716,9 +1802,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "바다와 산이 어우러진 자연과 함께 숨쉬는 네츄럴하우스",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": "바다와 산이 어우러진 자연과 함께 숨쉬는 네츄럴하우스"
               },
               "closing": {
                 "title": " Natural House",
@@ -1731,9 +1817,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": " ",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": " "
               },
               "essence": {
                 "title": "자연과 함께 숨쉬는 네츄럴하우스",
@@ -1760,9 +1846,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "\"\n고성 네츄럴하우스는 바다와 산을\n반려견과 함께 즐길 수 있는 힐링 공간입니다.\n\n오션뷰·마운틴뷰 객실과 바비큐장, 카페 등 \n다양한 시설을 제공합니다.\n\n주변에 공현진해수욕장,송지호, 화진포 등 \n주요 관광지 가까워 여행에 최적입니다.",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": "\"\n고성 네츄럴하우스는 바다와 산을\n반려견과 함께 즐길 수 있는 힐링 공간입니다.\n\n오션뷰·마운틴뷰 객실과 바비큐장, 카페 등 \n다양한 시설을 제공합니다.\n\n주변에 공현진해수욕장,송지호, 화진포 등 \n주요 관광지 가까워 여행에 최적입니다."
               },
               "gallery": {
                 "title": "Preview",
@@ -1803,15 +1889,15 @@
                     "isSelected": true
                   }
                 ],
-                "description": "고성 네츄럴하우스의 매력을 미리 느껴보세요.",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": "고성 네츄럴하우스의 매력을 미리 느껴보세요."
               },
               "signature": {
                 "title": "",
                 "images": [],
-                "mediaType": "image",
-                "videos": []
+                "videos": [],
+                "mediaType": "image"
               }
             }
           ]
