@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.15.0",
-    "generatedAt": "2026-05-18T02:47:17.390989003Z",
+    "version": "1.16.0",
+    "generatedAt": "2026-05-18T05:05:47.368438332Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
     "homepageId": "d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a"
@@ -501,7 +501,7 @@
     ],
     "nameEn": "Goseong Natural House Pension",
     "domain": "naturalhouseps.kr",
-    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11477",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/1686963308",
     "ybsId": "79937"
   },
   "rooms": [
@@ -1947,6 +1947,12 @@
               }
             }
           ]
+        },
+        "layoutMap": {
+          "sections": [ ]
+        },
+        "nearbyAttractions": {
+          "sections": [ ]
         }
       },
       "popup": {
