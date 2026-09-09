@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.20.0",
-    "generatedAt": "2026-08-10T06:42:03.927912905Z",
+    "version": "1.21.0",
+    "generatedAt": "2026-09-09T01:28:25.571221040Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "2861729b-4bbb-4f91-8e31-d13fa88ba78b",
     "homepageId": "d7cc2844-0f3a-4029-bac6-bf9b1fd6ea6a"
@@ -14,12 +14,14 @@
     "address": "강원특별자치도 고성군 죽왕면 공현진길 6 네츄럴하우스",
     "latitude": 38.3523802218048,
     "longitude": 128.509717449839,
-    "contactPhone": "010-4952-2272",
+    "contactPhone": [
+      "010-4952-2272"
+    ],
     "contactEmail": "",
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n[입/퇴실 안내]\n- 입실시각: 15시\n- 퇴실시각: 11시\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.",
-    "usageGuide": "[공지사항]\n[펜션 이용 안내 사항]\n- 취사 불가 객실 : 302호, 303호, 305호, 307호, 503호,505호, 506호\n- 퇴실 시간은 오전 11시입니다.\n- 레이트 체크아웃 시 1시간당 1만원의 추가 요금이 발생하며, 예약 상황에 따라 늦은 퇴실이 불가할 수 있는 점 양해 부탁드립니다.\n- 미성년자 단독 예약은 불가합니다. (현장 이용 불가 및 전액 환불 불가)\n- 숙박 여부와 관계없이, 객실에 입실하시는 모든 분은 인원수에 포함됩니다.\n- 단체 고객 또는 2가족 이상 이용 시에는 반드시 사전 유선 문의 및 협의를 부탁드립니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n[입/퇴실 안내]\n- 입실시각: 15시\n- 퇴실시각: 11시\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 영유아 기준인원 포함/ 최대인원 초과 불가\n\n[공용바베큐]\n[야외 공용 바베큐장]\n- 야외 테이블 숯+그릴 : 2인 기준 30,000원\n- 몽골텐트 전기그릴 : 20,000원 (한 테이블 2시간 이용)\n- 이용 시간: ~22:00\n※ 현장 결제\n※ 기상 상황이나 현장 사정에 따라 이용이 제한될 수 있습니다.\n※ 다음 손님을 위해 분리수거는 꼭 해주세요.\n※ 사용 후 전열기는 뽑아주셔야 합니다.\n\n[애견동반]\n※ 반려견 동반을 원하실 경우, 예약 전 사전 문의가 반드시 필요합니다.\n- 동반 가능 객실 : 2층과 3층 객실에 한함\n- 추가비용 : 소형견(7kg 미만) 10,000원, 중대형견 20,000원 (1박기준/현장결제)\n※ 반려견을 객실에 혼자 두고 외출하는 것은 절대 불가하며, 다른 고객님의 편안한 투숙을 위해 협조 부탁드립니다.\n\n[부대시설]\n[해수욕장 인근]\n- 공현진해수욕장 펜션에서 도보 1분\n\n[오션뷰]\n- 일부 객실에서 바다를 감상할 수 있습니다.\n\n[매점&카페]\n- 카페 : 펜션 건물 1층 아라커피 (평일 09:00~19:00, 주말 08:00~19:00)\n- 조식 : 브런치 세트(9,500원) 및 브런치 메뉴 판매\n\n[편의 및 주변 시설]\n- 소화기, 연기감지기 설치\n- 전 건물/객실 내 금연\n- 와이파이 보유\n- 호텔식 침구류\n- 어메니티 무료 제공\n\n[주변관광지]\n- 공현진해수욕장\n- 공현진항회센터\n- 공현진항\n- 왕곡마을\n- 송지호해변, 서핑\n- 통일전망대\n- 화진포해수욕장\n- DMZ 박물관\n\n[주차장]\n- 19대 주차 가능한 넓은 주차장이 있습니다.\n\n[교통편]\n- 주소 : 강원도 고성군 죽왕면 공현진길6\n- 자가용 이용 시 : 네비에 '네츄럴하우스' 검색\n- 버스 이용 시 : 간성터미널 하차 후 '간성시외버스터미널' 정류장에서 1, 1-1번 버스 탑승  공현진1리 정류장에서 하차  도보로 3분",
+    "usageGuide": "[공지사항]\n[펜션 이용 안내 사항]\n- 취사 불가 객실 : 302호, 303호, 305호, 307호, 503호,505호, 506호\n- 퇴실 시간은 오전 11시입니다.\n- 레이트 체크아웃 시 1시간당 1만원의 추가 요금이 발생하며, 예약 상황에 따라 늦은 퇴실이 불가할 수 있는 점 양해 부탁드립니다.\n- 미성년자 단독 예약은 불가합니다. (현장 이용 불가 및 전액 환불 불가)\n- 숙박 여부와 관계없이, 객실에 입실하시는 모든 분은 인원수에 포함됩니다.\n- 단체 고객 또는 2가족 이상 이용 시에는 반드시 사전 유선 문의 및 협의를 부탁드립니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n[입/퇴실 안내]\n- 입실시각: 15시\n- 퇴실시각: 11시\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 영유아 기준인원 포함/ 최대인원 초과 불가\n\n[공용바베큐]\n[야외 공용 바베큐장]\n- 야외 테이블 숯+그릴 : 2인 기준 30,000원\n- 몽골텐트 전기그릴 : 20,000원 (한 테이블 2시간 이용)\n- 이용 시간: ~22:00\n※ 현장 결제\n※ 기상 상황이나 현장 사정에 따라 이용이 제한될 수 있습니다.\n※ 다음 손님을 위해 분리수거는 꼭 해주세요.\n※ 사용 후 전열기는 뽑아주셔야 합니다.\n\n[애견동반]\n※ 반려견 동반을 원하실 경우, 예약 전 사전 문의가 반드시 필요합니다.\n- 동반 가능 객실 : 2층과 3층 객실에 한함\n- 추가비용 : 소형견(7kg 미만) 10,000원, 중대형견 20,000원 (1박기준/현장결제)\n※ 반려견을 객실에 혼자 두고 외출하는 것은 절대 불가하며, 다른 고객님의 편안한 투숙을 위해 협조 부탁드립니다.\n\n[부대시설]\n[해수욕장 인근]\n- 공현진해수욕장 펜션에서 도보 1분\n\n[오션뷰]\n- 일부 객실에서 바다를 감상할 수 있습니다.\n\n[매점&카페]\n- 카페 : 펜션 건물 1층 아라커피 (전 요일 09:00~19:00)\n- 조식 : 브런치 세트(9,500원) 및 브런치 메뉴 판매\n\n[편의 및 주변 시설]\n- 소화기, 연기감지기 설치\n- 전 건물/객실 내 금연\n- 와이파이 보유\n- 호텔식 침구류\n- 어메니티 무료 제공\n\n[주변관광지]\n- 공현진해수욕장\n- 공현진항회센터\n- 공현진항\n- 왕곡마을\n- 송지호해변, 서핑\n- 통일전망대\n- 화진포해수욕장\n- DMZ 박물관\n\n[주차장]\n- 19대 주차 가능한 넓은 주차장이 있습니다.\n\n[교통편]\n- 주소 : 강원도 고성군 죽왕면 공현진길6\n- 자가용 이용 시 : 네비에 '네츄럴하우스' 검색\n- 버스 이용 시 : 간성터미널 하차 후 '간성시외버스터미널' 정류장에서 1, 1-1번 버스 탑승  공현진1리 정류장에서 하차  도보로 3분",
     "reservationGuide": "[펜션 이용 안내 사항]\n- 취사 불가 객실 : 302호, 303호, 305호, 307호, 503호,505호, 506호\n- 퇴실 시간은 오전 11시입니다.\n- 레이트 체크아웃 시 1시간당 1만원의 추가 요금이 발생하며, 예약 상황에 따라 늦은 퇴실이 불가할 수 있는 점 양해 부탁드립니다.\n- 미성년자 단독 예약은 불가합니다. (현장 이용 불가 및 전액 환불 불가)\n- 숙박 여부와 관계없이, 객실에 입실하시는 모든 분은 인원수에 포함됩니다.\n- 단체 고객 또는 2가족 이상 이용 시에는 반드시 사전 유선 문의 및 협의를 부탁드립니다.",
     "province": "강원특별자치도",
     "city": "고성군",
@@ -490,7 +492,7 @@
     {
       "id": "8a571413-4779-4365-a199-a670ca0017a6",
       "name": "201호(마운틴뷰,애견동반O)",
-      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,인덕션",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n산전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,인덕션",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 성인(8세이상) : 1인 10,000원 \n- 아동 (8세미만) : 1인 10,000원 \n- 유아(24개월미만) : 무료\n※ 영유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
@@ -533,7 +535,9 @@
         "남녀공용",
         "욕실용품"
       ],
-      "roomViews": [ ],
+      "roomViews": [
+        "마운틴뷰"
+      ],
       "roomStructures": [
         "원룸형"
       ],
@@ -553,7 +557,7 @@
         {
           "thumbnail": [
             {
-              "id": "af46a1db-b0ca-4853-903f-9865fcb66035",
+              "id": "b3321f86-0a78-4501-8718-9543d617c0e5",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/NaV5FysjYLct.jpg",
               "sortOrder": 1,
               "description": "",
@@ -563,7 +567,7 @@
           ],
           "interior": [
             {
-              "id": "b9d99ab0-302e-45bf-9825-9a941e92e4c0",
+              "id": "13ac2a96-db70-4db4-8e67-34989ccd512d",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/cmvXd7nUwELN.jpg",
               "sortOrder": 2,
               "description": "",
@@ -571,7 +575,7 @@
               "blockId": null
             },
             {
-              "id": "2872a466-096a-451d-bcae-c8ae44d6b1a8",
+              "id": "6e491af5-bc1d-4b41-9dca-1f826da38090",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/w8c7T0bHnDkz.jpg",
               "sortOrder": 3,
               "description": "",
@@ -579,7 +583,7 @@
               "blockId": null
             },
             {
-              "id": "8c58fa5c-f099-4b21-92db-059a9812847c",
+              "id": "bd7b1eca-b513-4283-8814-c082ae2f0a9e",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/avs85zXCbk0i.jpg",
               "sortOrder": 4,
               "description": "",
@@ -587,7 +591,7 @@
               "blockId": null
             },
             {
-              "id": "e55bb227-252c-41c9-85f4-ce0fd9c8c037",
+              "id": "cb0390e8-33a8-46ac-a73b-83ffc1ca4c20",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/helLzUgM2HwI.jpg",
               "sortOrder": 5,
               "description": "",
@@ -595,7 +599,7 @@
               "blockId": null
             },
             {
-              "id": "bce2bab1-0269-4ff8-9572-f2b239ef7d60",
+              "id": "8ebaf998-339f-4882-862c-f37602bcf220",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/rSLucNT9qQ20.jpg",
               "sortOrder": 6,
               "description": "",
@@ -603,7 +607,7 @@
               "blockId": null
             },
             {
-              "id": "29d5bbb8-998d-4bce-87a5-f8cb2decd061",
+              "id": "fdfeba44-edac-4f44-93d4-738d0ebc489e",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/sw8Tp9mxoFVN.jpg",
               "sortOrder": 7,
               "description": "",
@@ -1012,7 +1016,7 @@
     {
       "id": "5944cc99-49e8-4f4d-af2e-5b5a3783198e",
       "name": "206호(마운틴뷰,애견동반O)",
-      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,인덕션",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n산전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,인덕션",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 성인(8세이상) : 1인 10,000원 \n- 아동 (8세미만) : 1인 10,000원 \n- 유아(24개월미만) : 무료\n※ 영유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
@@ -1055,7 +1059,9 @@
         "남녀공용",
         "욕실용품"
       ],
-      "roomViews": [ ],
+      "roomViews": [
+        "마운틴뷰"
+      ],
       "roomStructures": [
         "원룸형"
       ],
@@ -1075,7 +1081,7 @@
         {
           "thumbnail": [
             {
-              "id": "15fadb01-33f6-433d-a978-d1c2c9186a48",
+              "id": "35344e97-da20-4eea-aa71-dfb7d2d9ee94",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/SVKaFOIP0Hth.jpg",
               "sortOrder": 6,
               "description": "",
@@ -1085,7 +1091,7 @@
           ],
           "interior": [
             {
-              "id": "8451fb4c-b9d7-43f1-8f0b-2b21f6af2401",
+              "id": "38056377-c85b-44b1-8789-d8d2bf47f446",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/6kdGVC4DgQ87.jpg",
               "sortOrder": 7,
               "description": "",
@@ -1093,7 +1099,7 @@
               "blockId": null
             },
             {
-              "id": "52016c04-e6f3-49a6-ad24-f4d904043035",
+              "id": "50d0bae3-1d8d-42c6-80a3-51425e0130aa",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/C7fUXNaypGYi.jpg",
               "sortOrder": 8,
               "description": "",
@@ -1101,7 +1107,7 @@
               "blockId": null
             },
             {
-              "id": "5f715028-9cb7-4c87-9b04-59152d97b8ef",
+              "id": "09841c36-31ce-4fc0-9e65-97ac34edae4a",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/1LnvVTP4sZJK.jpg",
               "sortOrder": 9,
               "description": "",
@@ -1109,7 +1115,7 @@
               "blockId": null
             },
             {
-              "id": "2a1c346b-e586-432e-a900-66e55619acf2",
+              "id": "f7b79c66-fb76-44c3-9f72-0fd8fadf452e",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/tHaB716jMPD2.jpg",
               "sortOrder": 10,
               "description": "",
@@ -1117,7 +1123,7 @@
               "blockId": null
             },
             {
-              "id": "e2082b3d-27bd-418a-9c93-768a105a3767",
+              "id": "b57b3cf5-8fe3-4412-b412-9c3f2d709859",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/1c0WO9tlBFRj.jpg",
               "sortOrder": 11,
               "description": "",
@@ -1125,7 +1131,7 @@
               "blockId": null
             },
             {
-              "id": "7057a4d3-dba5-4082-91bd-c07b052f6b58",
+              "id": "404570e3-e94d-4009-9454-f8775150fcd3",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/pCFsSXfvh6Ii.jpg",
               "sortOrder": 12,
               "description": "",
@@ -1141,7 +1147,7 @@
     {
       "id": "d0b4667d-d54a-4f17-a57c-a8cba81224fa",
       "name": "207호(마운틴뷰,애견동반O)",
-      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,인덕션",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n산전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,인덕션",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 성인(8세이상) : 1인 10,000원 \n- 아동 (8세미만) : 1인 10,000원 \n- 유아(24개월미만) : 무료\n※ 영유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
@@ -1184,7 +1190,9 @@
         "욕실용품",
         "인덕션"
       ],
-      "roomViews": [ ],
+      "roomViews": [
+        "마운틴뷰"
+      ],
       "roomStructures": [
         "원룸형"
       ],
@@ -1204,7 +1212,7 @@
         {
           "thumbnail": [
             {
-              "id": "c6a5e580-0640-49b9-abdc-f4ea4d93a297",
+              "id": "fa9734cf-ad7c-4d8a-9e06-bca628483701",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/FLS1YWENP8n0.jpg",
               "sortOrder": 8,
               "description": "",
@@ -1214,7 +1222,7 @@
           ],
           "interior": [
             {
-              "id": "085b8dfc-c514-4247-b291-39dacfbfc819",
+              "id": "d5b64575-0e22-472b-8741-8ca6807fdd6c",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/Uwj81kh5degc.jpg",
               "sortOrder": 9,
               "description": "",
@@ -1222,7 +1230,7 @@
               "blockId": null
             },
             {
-              "id": "8ff6d7c9-96b6-4203-b6a0-0179e18303d2",
+              "id": "91914ac1-b625-4c82-bd0f-707a8d57efcc",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/qVYoItNcuZQW.jpg",
               "sortOrder": 10,
               "description": "",
@@ -1230,7 +1238,7 @@
               "blockId": null
             },
             {
-              "id": "3f61f5d8-74b4-4ca7-a579-3654a1b70472",
+              "id": "a8b32ec3-5bea-45d6-8717-d45e27050885",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/qD5AvmliptZF.jpg",
               "sortOrder": 11,
               "description": "",
@@ -1238,7 +1246,7 @@
               "blockId": null
             },
             {
-              "id": "8d3fcbd1-5d6c-4d34-925a-b21a7e259145",
+              "id": "0f107465-c285-4b19-9f2b-65bf4bea925c",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/EKTstGu6RL5k.jpg",
               "sortOrder": 12,
               "description": "",
@@ -1246,7 +1254,7 @@
               "blockId": null
             },
             {
-              "id": "172de919-025c-4851-8642-1758acb9cf1f",
+              "id": "497639c5-caef-4874-ae36-ce11f0eaab6c",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/IYSXh3q9FtGi.jpg",
               "sortOrder": 13,
               "description": "",
@@ -1254,7 +1262,7 @@
               "blockId": null
             },
             {
-              "id": "bfaec049-55d7-4d0a-8d73-3f02b0c5a7a9",
+              "id": "9ab33b1b-f20e-4e3b-9bdc-46204672b469",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/0cZ3oJ4VpeUj.jpg",
               "sortOrder": 14,
               "description": "",
@@ -1270,7 +1278,7 @@
     {
       "id": "25417075-7c20-422b-b058-0dc5add31251",
       "name": "301호(마운틴뷰,애견동반O)",
-      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,인덕션",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n산전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,인덕션",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 성인(8세이상) : 1인 10,000원 \n- 아동 (8세미만) : 1인 10,000원 \n- 유아(24개월미만) : 무료\n※ 영유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
@@ -1313,7 +1321,9 @@
         "남녀공용",
         "욕실용품"
       ],
-      "roomViews": [ ],
+      "roomViews": [
+        "마운틴뷰"
+      ],
       "roomStructures": [
         "원룸형"
       ],
@@ -1333,7 +1343,7 @@
         {
           "thumbnail": [
             {
-              "id": "6e34faf6-3ef8-4347-be2b-2d85934cb06a",
+              "id": "834b2ed4-0ff3-4212-ba3f-9c9185dbb21c",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/GqVHLYptIcmX.jpg",
               "sortOrder": 4,
               "description": "",
@@ -1343,7 +1353,7 @@
           ],
           "interior": [
             {
-              "id": "1ed1e6ec-1607-4af6-b6f1-b8ec8eba6578",
+              "id": "fdcac35d-cd8c-4496-88d1-51bfd598d7c5",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/odrtSzRWFgAq.jpg",
               "sortOrder": 5,
               "description": "",
@@ -1351,7 +1361,7 @@
               "blockId": null
             },
             {
-              "id": "2e14dfc8-eba9-4a69-980a-c786969f8ba1",
+              "id": "12e9eb3a-9014-4bdf-b419-d80581cbb52e",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/5fYRADPM9NIF.jpg",
               "sortOrder": 6,
               "description": "",
@@ -1359,7 +1369,7 @@
               "blockId": null
             },
             {
-              "id": "9770bc1a-bfb1-474f-b7d6-2f6cb573bb0b",
+              "id": "8c8690bc-c361-4457-9b08-7f3c9912f88e",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/dRDH1zvCk8Gj.jpg",
               "sortOrder": 7,
               "description": "",
@@ -1367,7 +1377,7 @@
               "blockId": null
             },
             {
-              "id": "10fd34d8-acf0-49ee-ace0-c0d76175f23b",
+              "id": "9c865738-b45a-48b1-84e0-6a7e491e7a85",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/3ica2mYV7Hqy.jpg",
               "sortOrder": 8,
               "description": "",
@@ -1375,7 +1385,7 @@
               "blockId": null
             },
             {
-              "id": "bd15a094-ebaa-4f39-a554-962145468e88",
+              "id": "4ed6a7f7-c850-43f5-aae0-0542126a2fd7",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/rOJBs1NG6gEd.jpg",
               "sortOrder": 9,
               "description": "",
@@ -1383,7 +1393,7 @@
               "blockId": null
             },
             {
-              "id": "22e19f4f-cd84-48f5-b1b8-b3d3dfb9e2e9",
+              "id": "5cd2ce80-a45c-4beb-b2b3-6ce668ce2f03",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/FpHmRQlarnuS.jpg",
               "sortOrder": 10,
               "description": "",
@@ -1794,7 +1804,7 @@
     {
       "id": "c76b7d44-f9b9-461c-85d2-e40484860832",
       "name": "306호(마운틴뷰,취사X,애견동반O)",
-      "description": "원룸형, 침대룸(싱글침대2)+화장실1\r\n12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨",
+      "description": "원룸형, 침대룸(싱글침대2)+화장실1\r\n산전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 성인(8세이상) : 1인 10,000원 \n- 아동 (8세미만) : 1인 10,000원 \n- 유아(24개월미만) : 무료\n※ 영유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
@@ -1835,7 +1845,9 @@
         "남녀공용",
         "욕실용품"
       ],
-      "roomViews": [ ],
+      "roomViews": [
+        "마운틴뷰"
+      ],
       "roomStructures": [
         "원룸형"
       ],
@@ -1855,7 +1867,7 @@
         {
           "thumbnail": [
             {
-              "id": "33f1821f-507f-4e8d-9ed4-55c15f48647d",
+              "id": "42782790-6a6d-4d5b-a886-2903f9e90289",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/QiJwLItkoARS.jpg",
               "sortOrder": 3,
               "description": "",
@@ -1865,7 +1877,7 @@
           ],
           "interior": [
             {
-              "id": "f88b806d-b56a-4c1d-b719-f3a99fe30128",
+              "id": "a1dc317f-5619-4c57-8c7b-2aeb288c3b99",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/QWuBtIq6U2yd.jpg",
               "sortOrder": 4,
               "description": "",
@@ -1873,7 +1885,7 @@
               "blockId": null
             },
             {
-              "id": "25240b03-2faf-4b8b-b7b0-e32d137a340a",
+              "id": "392afbf1-049b-4607-90c2-e31781d2867e",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/8GtWjy75Ox1V.jpg",
               "sortOrder": 5,
               "description": "",
@@ -1881,7 +1893,7 @@
               "blockId": null
             },
             {
-              "id": "811fc806-2245-4639-afb2-de636a2bff53",
+              "id": "2606aadb-54b4-4bf7-9ce4-4d07419107ba",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/e89bHWtBAT2c.jpg",
               "sortOrder": 6,
               "description": "",
@@ -1889,7 +1901,7 @@
               "blockId": null
             },
             {
-              "id": "0557f60d-c147-4540-80df-85734491d9bd",
+              "id": "6b84a880-122c-4d50-b10d-6cdd8b88c328",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/rOUk79jqiln5.jpg",
               "sortOrder": 7,
               "description": "",
@@ -1897,7 +1909,7 @@
               "blockId": null
             },
             {
-              "id": "64f78954-1f03-4372-8c4e-b26bb46c7440",
+              "id": "a15b5373-87bd-421d-9964-aa4215055011",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/K3gkapTr0SZy.jpg",
               "sortOrder": 8,
               "description": "",
@@ -1905,7 +1917,7 @@
               "blockId": null
             },
             {
-              "id": "eea46cc2-37ce-4399-ae68-3972368011cd",
+              "id": "fdfd98f4-8447-4f65-b95f-695fb2fae3fe",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/ZFMNxI2eEzv7.jpg",
               "sortOrder": 9,
               "description": "",
@@ -1921,7 +1933,7 @@
     {
       "id": "6df03d42-eb53-4efd-a4f4-6dc2f0763aac",
       "name": "307호(마운틴뷰,취사X,애견동반O)",
-      "description": "원룸형, 침대룸(싱글침대2)+화장실1\r\n12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨",
+      "description": "원룸형, 침대룸(싱글침대2)+화장실1\r\n산전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 성인(8세이상) : 1인 10,000원 \n- 아동 (8세미만) : 1인 10,000원 \n- 유아(24개월미만) : 무료\n※ 영유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
@@ -1962,7 +1974,9 @@
         "남녀공용",
         "욕실용품"
       ],
-      "roomViews": [ ],
+      "roomViews": [
+        "마운틴뷰"
+      ],
       "roomStructures": [
         "원룸형"
       ],
@@ -1982,7 +1996,7 @@
         {
           "thumbnail": [
             {
-              "id": "be9d715c-3b22-4f23-a85c-9aa2aa42f3ba",
+              "id": "ffe354f4-9619-4f93-bfbc-66b276a29a28",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/wNIFy1HojzWh.jpg",
               "sortOrder": 3,
               "description": "",
@@ -1992,7 +2006,7 @@
           ],
           "interior": [
             {
-              "id": "ad184100-f603-4355-82cc-41bba94f1df8",
+              "id": "a0a7e757-229e-4a9d-a91e-b4a3d9d37533",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/IUqihysKHMn0.jpg",
               "sortOrder": 4,
               "description": "",
@@ -2000,7 +2014,7 @@
               "blockId": null
             },
             {
-              "id": "2c1727e2-e8a3-46c3-8dd1-cc246c95f146",
+              "id": "40c5bf35-a08d-4d07-92fa-82f428ab6351",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/BUzf658kVlSD.jpg",
               "sortOrder": 5,
               "description": "",
@@ -2008,7 +2022,7 @@
               "blockId": null
             },
             {
-              "id": "391bccf9-1a64-4a3b-99b7-b1bafae03c09",
+              "id": "f4f17b81-a216-44bd-9bf5-a07d902cfef3",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/UGMF6i9sZVgk.jpg",
               "sortOrder": 6,
               "description": "",
@@ -2016,7 +2030,7 @@
               "blockId": null
             },
             {
-              "id": "2c3f9d69-ff9c-4d57-9d2d-9846b646980c",
+              "id": "5278580c-513c-4218-8b31-df55c68379ee",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/IFLsO1gR8Jlc.jpg",
               "sortOrder": 7,
               "description": "",
@@ -2024,7 +2038,7 @@
               "blockId": null
             },
             {
-              "id": "6d1b5fdc-1eb0-4e22-816e-bdbe7bde3158",
+              "id": "db4ec531-36bf-4623-ae16-924ce48e190e",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/Wj0KJTMdwHFk.jpg",
               "sortOrder": 8,
               "description": "",
@@ -2032,7 +2046,7 @@
               "blockId": null
             },
             {
-              "id": "7a9e4fe3-7ae3-4edf-ad61-bfb0e66d68bf",
+              "id": "19b77e65-473d-468a-8234-a8e2d1c71515",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/mC9ELNnQWdSY.jpg",
               "sortOrder": 9,
               "description": "",
@@ -2048,7 +2062,7 @@
     {
       "id": "fd74f879-b6da-4b6c-92d3-8c2f6888aed0",
       "name": "501호(마운틴뷰,애견동반X)",
-      "description": "원룸형, 침대룸(싱글침대2)+주방1+화장실1\r\n12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,인덕션",
+      "description": "원룸형, 침대룸(싱글침대2)+주방1+화장실1\r\n산전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,인덕션",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 성인(8세이상) : 1인 10,000원 \n- 아동 (8세미만) : 1인 10,000원 \n- 유아(24개월미만) : 무료\n※ 영유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
@@ -2091,7 +2105,9 @@
         "남녀공용",
         "욕실용품"
       ],
-      "roomViews": [ ],
+      "roomViews": [
+        "마운틴뷰"
+      ],
       "roomStructures": [
         "원룸형"
       ],
@@ -2111,7 +2127,7 @@
         {
           "thumbnail": [
             {
-              "id": "deb1d253-0a1b-4bd8-a9f7-42c2ca24bff8",
+              "id": "202cdd20-8da3-4f33-b4a3-9bbb8cf0b5c3",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/z8Oy0PhdA1Ea.jpg",
               "sortOrder": 4,
               "description": "",
@@ -2121,7 +2137,7 @@
           ],
           "interior": [
             {
-              "id": "d27869ad-9aa4-4b7a-bd1a-00c347e1f34e",
+              "id": "8e6f051e-7df3-4906-97a2-ea304d68b5cd",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/R967nU8kl5jY.jpg",
               "sortOrder": 5,
               "description": "",
@@ -2129,7 +2145,7 @@
               "blockId": null
             },
             {
-              "id": "6abcbb60-d6ac-41aa-9bbe-685bc204f280",
+              "id": "25824457-e0f1-4c32-8913-522d77272894",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/Brv5kE0p3b1w.jpg",
               "sortOrder": 6,
               "description": "",
@@ -2137,7 +2153,7 @@
               "blockId": null
             },
             {
-              "id": "83caf269-92c7-4b5f-aa58-1e0ba38fd828",
+              "id": "a55552e4-f0f8-49c9-8885-6c54e6bf0366",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/4EKab8gJLiBX.jpg",
               "sortOrder": 7,
               "description": "",
@@ -2145,7 +2161,7 @@
               "blockId": null
             },
             {
-              "id": "b6da2d61-54b9-4134-81b0-75deb6fbc913",
+              "id": "6c8d0a81-b830-46c2-8524-acd08876c09d",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/JNZt79F3wapO.jpg",
               "sortOrder": 9,
               "description": "",
@@ -2153,7 +2169,7 @@
               "blockId": null
             },
             {
-              "id": "96a1529e-5f1f-4b3c-baf0-acefffe7bf9c",
+              "id": "221e8ca5-7b56-49b0-b57e-b8b412b68830",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/v14EwWQhV7zK.jpg",
               "sortOrder": 10,
               "description": "",
@@ -2161,7 +2177,7 @@
               "blockId": null
             },
             {
-              "id": "a51d259b-0866-4155-b6cf-8c897f6eed42",
+              "id": "e42672cd-b6a0-49f6-b9d0-086422e426f1",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/SxOIfZ3nvQue.jpg",
               "sortOrder": 11,
               "description": "",
@@ -2169,7 +2185,7 @@
               "blockId": null
             },
             {
-              "id": "13365f0e-925c-47d2-8f92-91ec46462817",
+              "id": "a9e7b1c5-857e-4959-aede-1bb252309934",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/mYTPIxdaK3A2.jpg",
               "sortOrder": 12,
               "description": "",
@@ -2582,7 +2598,7 @@
     {
       "id": "aebbbb5c-b936-4177-8f39-37cb78208cfd",
       "name": "506호(마운틴뷰,취사X,애견동반X)",
-      "description": "원룸형, 침대룸(싱글침대2)+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨",
+      "description": "원룸형, 침대룸(싱글침대2)+화장실1\r\n산전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 성인(8세이상) : 1인 10,000원 \n- 아동 (8세미만) : 1인 10,000원 \n- 유아(24개월미만) : 무료\n※ 영유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
@@ -2624,7 +2640,7 @@
         "욕실용품"
       ],
       "roomViews": [
-        "바다전망(씨뷰)"
+        "마운틴뷰"
       ],
       "roomStructures": [
         "원룸형"
@@ -2645,7 +2661,7 @@
         {
           "thumbnail": [
             {
-              "id": "9212d808-c9bf-4074-b6a4-c71a464fc6d1",
+              "id": "3f57f0e2-378b-441c-8e3e-403e15ac4527",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/0U5aWb6y1zqd.jpg",
               "sortOrder": 3,
               "description": "",
@@ -2655,7 +2671,7 @@
           ],
           "interior": [
             {
-              "id": "ffb79102-a3a5-4669-9728-4883e2889bec",
+              "id": "b293aeb2-7bcf-4932-94ad-ecfe6ff64f64",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/f1aqxAgnjmye.jpg",
               "sortOrder": 4,
               "description": "",
@@ -2663,7 +2679,7 @@
               "blockId": null
             },
             {
-              "id": "4487b9a9-145c-45ae-a32f-d1fc124bc9a9",
+              "id": "34cacb54-ede0-4fdc-9b41-086282adc7ce",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/AK217nxg0cFT.jpg",
               "sortOrder": 6,
               "description": "",
@@ -2671,7 +2687,7 @@
               "blockId": null
             },
             {
-              "id": "37ab47ac-3bd1-4469-acbc-e1734c68987d",
+              "id": "37c1da76-1f4c-4d89-a06b-594089753987",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/C4kgmNKH17aZ.jpg",
               "sortOrder": 7,
               "description": "",
@@ -2679,7 +2695,7 @@
               "blockId": null
             },
             {
-              "id": "d12b236e-d3a8-4dc6-b1af-5ae4eb6a12e6",
+              "id": "fcfd688c-a688-42d7-9348-7bfe894a0493",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/EsHd3ODSiVgM.jpg",
               "sortOrder": 8,
               "description": "",
@@ -2687,7 +2703,7 @@
               "blockId": null
             },
             {
-              "id": "198355ae-95dd-4570-9279-2a35d3fe048c",
+              "id": "47564b8f-1326-4247-8e4f-3a0ea96fa6e8",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/4N6sdauOeyof.jpg",
               "sortOrder": 9,
               "description": "",
@@ -2695,7 +2711,7 @@
               "blockId": null
             },
             {
-              "id": "b9c0511c-9d27-4795-9768-daccfa0f4134",
+              "id": "2a3c0372-d70e-456f-99d6-a4bdc7116a5b",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/quOL9epi5TPl.jpg",
               "sortOrder": 10,
               "description": "",
@@ -2711,7 +2727,7 @@
     {
       "id": "36d4fbc4-76c8-4d51-a5c4-c7c23ae8ec6c",
       "name": "507호(마운틴뷰,애견동반X)",
-      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,인덕션",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n산전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,인덕션",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 성인(8세이상) : 1인 10,000원 \n- 아동 (8세미만) : 1인 10,000원 \n- 유아(24개월미만) : 무료\n※ 영유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
@@ -2754,7 +2770,9 @@
         "욕실용품",
         "인덕션"
       ],
-      "roomViews": [ ],
+      "roomViews": [
+        "마운틴뷰"
+      ],
       "roomStructures": [
         "원룸형"
       ],
@@ -2774,7 +2792,7 @@
         {
           "thumbnail": [
             {
-              "id": "c0db732a-6881-4762-9246-29dcffbe114e",
+              "id": "cb077530-f157-4770-96b7-0f3ab3b07e7e",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/Sv3iMKgT0rpL.jpg",
               "sortOrder": 6,
               "description": "",
@@ -2784,7 +2802,7 @@
           ],
           "interior": [
             {
-              "id": "47f1f48d-8b74-45a3-bd02-4240d9ab785d",
+              "id": "76fd2250-5377-44dd-8a60-623071b420c4",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/YmBxT1kPrf5l.jpg",
               "sortOrder": 8,
               "description": "",
@@ -2792,7 +2810,7 @@
               "blockId": null
             },
             {
-              "id": "71a82c80-bd38-4620-afe8-23c85ff0c5dc",
+              "id": "7b90e5fd-3509-4563-b77b-3da60278aab1",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/YXSc0Cbi3fAl.jpg",
               "sortOrder": 9,
               "description": "",
@@ -2800,7 +2818,7 @@
               "blockId": null
             },
             {
-              "id": "004f6ace-0ab7-4a82-901a-9140fd6746ef",
+              "id": "2bdfebfd-c3a4-4e14-89b3-2af90376972f",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/Xe8LnP3c6puT.jpg",
               "sortOrder": 10,
               "description": "",
@@ -2808,7 +2826,7 @@
               "blockId": null
             },
             {
-              "id": "31533665-4ccf-49d5-8eeb-85e72bee6d95",
+              "id": "c32ad5dc-c45d-464a-8fd3-914d5dd9322f",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/ipSuoB7TgMkV.jpg",
               "sortOrder": 11,
               "description": "",
@@ -2816,7 +2834,7 @@
               "blockId": null
             },
             {
-              "id": "a3c979ed-eb17-4655-901a-da7d26d650b8",
+              "id": "ed4e60d0-02dc-447b-8a9e-5f837231c10c",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/XLBuoWc3nkpC.jpg",
               "sortOrder": 12,
               "description": "",
@@ -2824,7 +2842,7 @@
               "blockId": null
             },
             {
-              "id": "753de85c-ed49-4527-837d-d8358f6b8f31",
+              "id": "fbb06cdf-d16a-4b48-9480-7fcd5e31420e",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/QWb9wXJFnS3v.jpg",
               "sortOrder": 13,
               "description": "",
